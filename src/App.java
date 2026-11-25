@@ -2,6 +2,7 @@
 //Tämän kommentin kirjoitti Olli Tuure
 //Moro! terveisin Aleksi Mantela
 //Tämän kommentin kirjoitti Kaapo Mäkilä
+//Jes, homma toimii t. Olli
 
 public class App {
     public static void main(String[] args) throws Exception {
